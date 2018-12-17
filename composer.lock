@@ -4,27 +4,27 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5e6131525cbdc87b7deb2ce1233ffb1f",
+    "content-hash": "751077058142f81f69affdbbdc43f413",
     "packages": [
         {
             "name": "johnpbloch/wordpress-core",
-            "version": "5.0.x-dev",
+            "version": "5.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/johnpbloch/wordpress-core.git",
-                "reference": "89653ef69a268f2afa489df93941567e60a131e6"
+                "reference": "ffff6b26223a1f051a21420ddeaf3528a1425f13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/johnpbloch/wordpress-core/zipball/89653ef69a268f2afa489df93941567e60a131e6",
-                "reference": "89653ef69a268f2afa489df93941567e60a131e6",
+                "url": "https://api.github.com/repos/johnpbloch/wordpress-core/zipball/ffff6b26223a1f051a21420ddeaf3528a1425f13",
+                "reference": "ffff6b26223a1f051a21420ddeaf3528a1425f13",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.2"
             },
             "provide": {
-                "wordpress/core-implementation": "5.0.x-dev"
+                "wordpress/core-implementation": "5.0.1"
             },
             "type": "wordpress-core",
             "notification-url": "https://packagist.org/downloads/",
@@ -44,7 +44,7 @@
                 "cms",
                 "wordpress"
             ],
-            "time": "2018-12-06T19:57:13+00:00"
+            "time": "2018-12-13T03:42:25+00:00"
         },
         {
             "name": "johnpbloch/wordpress-core-installer",
@@ -99,9 +99,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "johnpbloch/wordpress-core": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
