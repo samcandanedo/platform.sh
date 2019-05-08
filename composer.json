@@ -25,7 +25,7 @@
   "require": {
     "php": ">=5.3.2",
     "johnpbloch/wordpress-core-installer": "^1.0",
-    "johnpbloch/wordpress-core": "5.0.3"
+    "johnpbloch/wordpress-core": "5.2.0"
   },
   "extra": {
     "wordpress-install-dir": "web/wp",
